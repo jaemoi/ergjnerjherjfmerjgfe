@@ -1,0 +1,219 @@
+{
+    "payload": {
+        "gaNo": 22796369,
+        "customerId": 39969,
+        "customerName": "윤대호",
+        "gender": "MALE",
+        "birthDate": "1992-02-21",
+        "phoneNumber": "010-2207-2483",
+        "tossInsuranceInquiredDate": "2022-11-28 09:49:08",
+        "tossCoverStatusHtml": "",
+        "insuredNames": [
+            "전체",
+            "윤*호",
+            "윤대*"
+        ],
+        "insuranceAnalysisByInsured": {
+            "전체": {
+                "coverByCategories": [
+                    {
+                        "category": "실비",
+                        "subCategories": [
+                            {
+                                "subCategory": "상해처방조제료",
+                                "covers": [
+                                    {
+                                        "policyNo": "3190644875651",
+                                        "coverAmount": 0,
+                                        "renewal": false,
+                                        "renewAmount": 0,
+                                        "insuranceName": null
+                                    }
+                                ],
+                                "highlightForRiskProfile": false,
+                                "recommendMinimumCoverAmount": null,
+                                "recommendCoverAmount": null,
+                                "recommendMaximumCoverAmount": null,
+                                "recommend": false,
+                                "totalCoverAmount": 50000
+                            }
+                        ]
+                    },
+                    {
+                        "category": "치아",
+                        "subCategories": [
+                            {
+                                "subCategory": "보존치료",
+                                "covers": [
+                                    {
+                                        "policyNo": "204017022709",
+                                        "coverAmount": 0,
+                                        "renewal": false,
+                                        "renewAmount": 0,
+                                        "insuranceName": null
+                                    }
+                                ],
+                                "highlightForRiskProfile": false,
+                                "recommendMinimumCoverAmount": null,
+                                "recommendCoverAmount": null,
+                                "recommendMaximumCoverAmount": null,
+                                "recommend": false,
+                                "totalCoverAmount": 0
+                            },
+                            {
+                                "subCategory": "보철치료",
+                                "covers": [
+                                    {
+                                        "policyNo": "204017022709",
+                                        "coverAmount": 0,
+                                        "renewal": false,
+                                        "renewAmount": 0,
+                                        "insuranceName": null
+                                    }
+                                ],
+                                "highlightForRiskProfile": false,
+                                "recommendMinimumCoverAmount": null,
+                                "recommendCoverAmount": null,
+                                "recommendMaximumCoverAmount": null,
+                                "recommend": false,
+                                "totalCoverAmount": 0
+                            }
+                        ]
+                    }
+                ],
+                "insurances": [
+                    {
+                        "companyName": "MG손해보험",
+                        "insuranceName": "무배당 애지중지 아이사랑보험(Ⅱ)(1904)(3종,해지환급금 미지급형)",
+                        "policyNo": "20190573632",
+                        "contractorName": "윤대호",
+                        "insuredNames": [
+                            "윤대*"
+                        ],
+                        "paymentCycle": "02",
+                        "paymentPeriod": "25",
+                        "paymentEndDate": "2044-12-02",
+                        "paymentEndAge": 53,
+                        "coverStartDate": "2019-12-02",
+                        "coverEndDate": "2071-12-02",
+                        "coverEndAge": 80,
+                        "insuranceAmount": 30186,
+                        "paidInsuranceAmount": 1086696,
+                        "remainingInsuranceAmount": 7969104,
+                        "isCoverEnded": false,
+                        "insuranceCovers": [
+                            {
+                                "category": "사망",
+                                "subCategories": [
+                                    "상해사망"
+                                ],
+                                "policyNo": "20190573632",
+                                "coverName": "상해사망/일반상해사망보험금",
+                                "contractorName": "윤대*",
+                                "insuredName": "윤대*",
+                                "coverAmount": 100000000,
+                                "isCoverEnded": false,
+                                "paymentPeriod": "25",
+                                "coverStartDate": "2019-12-02",
+                                "coverEndDate": "2071-12-02",
+                                "renewalContract": false
+                            }
+                        ],
+                        "status": "정상",
+                        "paymentStatus": "정상-납입중",
+                        "renewalContract": false,
+                        "counselorOpinion": null,
+                        "maskedContractorName": "윤*호",
+                        "maskedInsuredNames": [
+                            "윤**"
+                        ]
+                    },
+                    {
+                        "companyName": "MG손해보험",
+                        "insuranceName": "(무)아이조아 어린이보험(21.04)(4종,연만기자동갱신형)",
+                        "policyNo": "20210228140",
+                        "contractorName": "윤대호",
+                        "insuredNames": [
+                            "윤대*"
+                        ],
+                        "paymentCycle": "02",
+                        "paymentPeriod": "71",
+                        "paymentEndDate": "2092-06-21",
+                        "paymentEndAge": 100,
+                        "coverStartDate": "2021-06-21",
+                        "coverEndDate": "2051-06-21",
+                        "coverEndAge": 59,
+                        "insuranceAmount": 12199,
+                        "paidInsuranceAmount": 219582,
+                        "remainingInsuranceAmount": 10173966,
+                        "isCoverEnded": false,
+                        "insuranceCovers": [
+                            {
+                                "category": "NONE",
+                                "subCategories": [
+                                    "NONE"
+                                ],
+                                "policyNo": "20210228140",
+                                "coverName": "기타수술/(30년갱신)호흡기질환수술비",
+                                "contractorName": "윤대*",
+                                "insuredName": "윤대*",
+                                "coverAmount": 500000,
+                                "isCoverEnded": false,
+                                "paymentPeriod": "71",
+                                "coverStartDate": "2021-06-21",
+                                "coverEndDate": "2051-06-21",
+                                "renewalContract": false
+                            }
+                        ],
+                        "status": "정상",
+                        "paymentStatus": "정상-납입중",
+                        "renewalContract": true,
+                        "counselorOpinion": null,
+                        "maskedContractorName": "윤*호",
+                        "maskedInsuredNames": [
+                            "윤**"
+                        ]
+                    }
+                ],
+                "monthlyInsuranceAmount": 42385
+            }
+        },
+        
+        "linkShortenUrl": "https://service.toss.im/insurance-analysis-report/bridge-to-report?userName=%EC%9C%A4%EB%8C%80%ED%98%B8&referrer=tossinsu_crm",
+        "coverageReportForCounselorUrl": null,
+        "monthlyInsuranceAmount": 256696,
+        "riskProfileLead": true
+    },
+    "customerRiskInfo": {
+        "haveDependentFamily": {
+            "readable": true,
+            "writable": true,
+            "value": "없음"
+        },
+        "income": {
+            "readable": true,
+            "writable": true,
+            "value": "300만원"
+        }
+    },
+    "categories": [
+        {
+            "first": "수술비",
+            "second": [
+                "질병수술",
+                "상해수술",
+                "암수술",
+                "뇌혈관질환수술",
+                "허혈성심장질환수술"
+            ]
+        },
+        {
+            "first": "입원일당",
+            "second": [
+                "질병입원",
+                "상해입원"
+            ]
+        }
+    ],
+    "counselorToken": "eyJ2ZXIi"
+}
